@@ -1,0 +1,5 @@
+---
+layout: page
+---
+
+Ancient books should be accessible to everyone. I am working to make this a reality by editing and translating Latin texts. This site incorporates links to the [courses I teach](/teaching/) and my [research](/research). I am a PhD candidate at the University of Toronto's [Centre for Medieval Studies](http://medieval.utoronto.ca), specializing in interactions between schools and monasticism in twelfth- and thirteenth-century England and France, as well as developing digital techniques for working with medieval manuscripts.

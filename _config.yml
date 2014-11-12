@@ -1,0 +1,12 @@
+# Site settings
+title: Andrew Dunning
+email: andrew.dunning@utoronto.ca
+description: > # this means to ignore newlines until "baseurl:"
+  Specialist in making medieval Latin writings accessible to the public.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://andrewdunning.ca" # the base hostname & protocol for your site
+twitter_username: anjdunning
+github_username:  adunning
+
+# Build settings
+markdown: kramdown
