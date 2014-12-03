@@ -2,6 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
+order: 3
 ---
 
 ## [Mac Keyboard Layouts for Windows](http://andrewdunning.ca/Mac-Keyboard-Layouts-for-Windows/)

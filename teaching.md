@@ -2,6 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+order: 2
 ---
 
 ## [Latin and Greek in Scientific Terminology](http://andrewdunning.ca/latin-greek-scientific-terminology/)

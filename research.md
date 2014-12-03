@@ -2,6 +2,7 @@
 layout: page
 title: Research
 permalink: /research/
+order: 1
 ---
 
 So many books survive from the Middle Ages that we only barely know what some of them contain. They are currently available only in a manuscript carefully preserved in a library, which for conservation purposes can only be consulted by specialists. The Internet provides us with the opportunity to change this, while safekeeping them for future generations: many libraries are now photographing their manuscripts and making the images available to the general public, giving us a glimpse for the first time at these incredible treasures, and providing the opportunity for everyone to work directly with the sources of written history. Now, however, we need a better way to make these texts widely available in a form that anyone can read.
