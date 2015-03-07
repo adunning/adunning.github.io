@@ -107,14 +107,18 @@
     margin-left: 0;
 }
 
-.footer-col-wrapper {
+.footer-col-wrapper, .copyright {
     font-size: 15px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 
-.footer-col {
+.copyright {
+    font-size: 12px;
+}
+
+.footer-col, .copyright {
     float: left;
     margin-bottom: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
