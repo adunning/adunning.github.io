@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Classical Text Editor in Mac OS X using Wine"
 description: "Directions for installing Classical Text Editor using WineBottler."
-date: 2014-02-03
+date: 2014-02-03 14:06
 category: posts
 ---
 

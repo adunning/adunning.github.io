@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Course Website for Latin and Greek in Scientific Terminology
-date: 2014-09-09
+date: 2014-09-09 10:23
 category: posts
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Networking Scholarly Editions
-date: 2015-03-12
+date: 2015-03-12 08:53
 category: posts
 ...
 
