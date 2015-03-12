@@ -10,3 +10,6 @@ github_username:  adunning
 
 # Build settings
 markdown: kramdown
+
+# Outputting
+timezone: America/Toronto
