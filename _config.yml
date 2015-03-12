@@ -12,4 +12,5 @@ github_username:  adunning
 markdown: kramdown
 
 # Outputting
+permalink: pretty
 timezone: America/Toronto
