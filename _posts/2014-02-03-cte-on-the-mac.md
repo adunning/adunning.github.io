@@ -12,7 +12,7 @@ category: posts
 
 The program is most easily installed on OS X using WineBottler:
 
-1. Download and install the [development version of WineBottler](http://winebottler.kronenberg.org); the development rather than the stable version tends to work better.
+1. Download and install the [development version of WineBottler](http://winebottler.kronenberg.org).
 
 2. Download the [demo version of Classical Text Editor](http://cte.oeaw.ac.at/?id0=download).
 
