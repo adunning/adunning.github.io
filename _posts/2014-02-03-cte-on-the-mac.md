@@ -25,7 +25,7 @@ The program is most easily installed on OS X using WineBottler:
 
 4. Clicking the Install button will prompt you to save the program. Naming it 'Classical Text Editor' and saving it in the Applications folder is likely most desirable. It will then launch the CTE installer and walk you through the standard Windows installer; you can use the default settings. Choose `CTE.exe` as the 'startfile' when prompted.
 
-    ![WineBottler 'Startfile'](/images/cte-winebottler-settings.png)
+    ![WineBottler 'Startfile'](/images/cte-winebottler-startfile.png)
 
 5. Launch Classical Text Editor and close it again. This installs its configuration files.
 
