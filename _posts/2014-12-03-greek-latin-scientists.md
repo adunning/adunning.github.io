@@ -38,10 +38,10 @@ This is [a paper given for 'Greek and Latin in an Age of Open Data', University 
 <p>Dunmore, Charles W., and Rita M. Fleischer. 2008. <em>Studies in Etymology</em>. 2nd ed. Newburyport, MA: Focus.</p>
 </div>
 <div id="ref-eisenstein:2005book">
-<p>Eisenstein, Elizabeth L. 2005. “The Book of Nature Transformed: Printing and the Rise of Modern Science.” In <em>The Printing Revolution in Early Modern Europe</em>, 2nd ed., 209–85. Cambridge: Cambridge University Press. <a href="http://dx.doi.org/10.1017/CBO9781139197038.010" class="uri">http://dx.doi.org/10.1017/CBO9781139197038.010</a>.</p>
+<p>Eisenstein, Elizabeth L. 2005. “The Book of Nature Transformed: Printing and the Rise of Modern Science.” In <em>The Printing Revolution in Early Modern Europe</em>, 2nd ed., 209–85. Cambridge: Cambridge University Press. doi:<a href="https://doi.org/10.1017/CBO9781139197038.010">10.1017/CBO9781139197038.010</a>.</p>
 </div>
 <div id="ref-fögen:2011latin">
-<p>Fögen, Thorsten. 2011. “Latin as a Technical and Scientific Language.” In <em>A Companion to the Latin Language</em>, edited by James Clackson, 445–63. Chichester, West Sussex: Wiley-Blackwell. <a href="http://dx.doi.org/10.1002/9781444343397.ch25" class="uri">http://dx.doi.org/10.1002/9781444343397.ch25</a>.</p>
+<p>Fögen, Thorsten. 2011. “Latin as a Technical and Scientific Language.” In <em>A Companion to the Latin Language</em>, edited by James Clackson, 445–63. Chichester, West Sussex: Wiley-Blackwell. doi:<a href="https://doi.org/10.1002/9781444343397.ch25">10.1002/9781444343397.ch25</a>.</p>
 </div>
 <div id="ref-glare:2012oxford">
 <p>Glare, P.G.W., ed. 2012. <em>Oxford Latin Dictionary</em>. 2nd ed. 2 vols. Oxford: Oxford University Press.</p>
