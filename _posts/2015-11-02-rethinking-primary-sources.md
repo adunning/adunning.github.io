@@ -1,5 +1,6 @@
 ---
-title: "Rethinking the publication of premodern sources: Petrus Plaoul on the *Sentences*"
+layout: post
+title: "Rethinking the publication of premodern sources: Petrus Plaoul on the <i>Sentences</i>"
 author: Andrew Dunning
 date: 2015-11-02
 ...
