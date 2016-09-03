@@ -3,7 +3,7 @@ layout: post
 title: "Installing Classical Text Editor in Mac OS X using Wine"
 description: "Directions for installing Classical Text Editor using WineBottler."
 date: 2014-02-03 14:06
-category: posts
+categories: digital editing
 ---
 
 [Classical Text Editor](http://cte.oeaw.ac.at) can be used on Mac or Linux systems using [Wine](http://www.winehq.org), an open-source package that duplicates the parts of Windows necessary to running its programs, as an alternative to running a full copy of the operating system. The [result is not perfect](https://appdb.winehq.org/objectManager.php?sClass=application&iId=15806), but allows for most day-to-day use.

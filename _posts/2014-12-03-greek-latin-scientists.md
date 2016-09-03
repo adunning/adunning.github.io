@@ -2,10 +2,10 @@
 layout: post
 title: Greek and Latin for Scientists
 date: 2014-12-03
-category: posts
+categories: digital teaching papers
 ---
 
-This is [a paper given for 'Greek and Latin in an Age of Open Data', University of Leipzig, 3 December 2014](http://www.dh.uni-leipzig.de/wo/workshop-december-2014/greek-and-latin-in-an-age-of-open-data-schedule/andrew-dunning-greek-and-latin-for-scientists/). 
+This is [a paper given for 'Greek and Latin in an Age of Open Data', University of Leipzig, 3 December 2014](http://www.dh.uni-leipzig.de/wo/workshop-december-2014/greek-and-latin-in-an-age-of-open-data-schedule/andrew-dunning-greek-and-latin-for-scientists/).
 
 *Abstract:* Studying Greek and Latin through the eyes of scientists reveals not only the extent of the influence of classical languages, but also the urgency of the need for more accessible historical and linguistic material. Open publication is gradually making available more dictionaries, primary sources, and explanations of basic concepts suitable for a general audience, which is gradually allowing scientists to better understand specialized nomenclature based on Greek and Latin.
 

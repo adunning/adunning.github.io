@@ -1,16 +1,16 @@
-# Site settings
 title: Andrew Dunning
-email: andrew.dunning@utoronto.ca
-description: > # this means to ignore newlines until "baseurl:"
-  Curator of Medieval Historical Manuscripts, 1100–1500, The British Library.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://andrewdunning.ca" # the base hostname & protocol for your site
+author: Andrew Dunning
+email: andrew.dunning@bl.uk
+description: > 
+  Curator of Medieval Historical Manuscripts, 1100–1500, at the British Library.
+url: "http://andrewdunning.ca"
 twitter_username: anjdunning
 github_username:  adunning
 
 # Build settings
 markdown: kramdown
+theme: minima
 
-# Output
-permalink: pretty
-timezone: America/Toronto
+collections:
+  posts:
+    permalink: /posts/:title
