@@ -13,4 +13,4 @@ theme: minima
 
 collections:
   posts:
-    permalink: /posts/:title
+    permalink: /:title
