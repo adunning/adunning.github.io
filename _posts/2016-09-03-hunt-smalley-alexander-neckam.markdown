@@ -37,7 +37,7 @@ It seems that the public statements of Smalley and Southern were both correct in
 
 [^7]: In Hunt, *Schools*, vii–viii.
 
-[^8]: Thomas Wright, ed., *Alexandri Neckam De naturis rerum libri duo. With the poem of the same author, De laudibus divinæ sapientiæ*, Rolls Series 34 (London: Longman, Green, Longman, Roberts, and Green, 1863), <https://archive.org/details/alexandrineckamd00neck>.
+[^8]: Thomas Wright, ed., *Alexandri Neckam De naturis rerum libri duo. With the poem of the same author, De laudibus divinæ sapientiæ*, Rolls Series 34 (London: Longman, Green, Longman, Roberts, and Green, 1863), <https://doi.org/10.1017/CBO9781139208239> (<https://archive.org/details/alexandrineckamd00neck>).
 
 [^9]: The most thorough are A.G. Rigg, *Speculum* 61, no. 3 (July 1986): 666–68, <https://doi.org/10.2307/2851624>; John Marenbon, *The English Historical Review* 102, no. 403 (April 1987): 470–71, <https://doi.org/10.1093/ehr/CII.403.470-b>.
 
