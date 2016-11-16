@@ -10,6 +10,9 @@ github_username:  adunning
 # Build settings
 markdown: kramdown
 theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
 
 collections:
   posts:
