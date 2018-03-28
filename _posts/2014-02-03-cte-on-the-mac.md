@@ -25,10 +25,8 @@ CTE is a Windows-only program, but there are two approaches to installing it on 
 
 ![Classical Text Editor running under Wine](/images/cte-mac-main-window.png)
 
-Wine does not, unfortunately, come with a polished interface. The best method for using it on the Mac is to [install Wine via Homebrew](https://www.davidbaumgold.com/tutorials/wine-mac/), using the command line. This provides the most up-to-date software and does not involve additional licensing fees. Following these directions, CTE can be installed like any other Windows program. After finishing Part 3 in these steps, run `brew install winetricks && winetricks usp10` to install Uniscribe, which enables CTE's OpenType support. (Alternatively, [download a copy of Uniscribe from the CTE website](http://homepage.univie.ac.at/stefan.hagel/cte/usp10.dll) and put the file into the program's installation folder.)
+Wine does not, unfortunately, come with a polished interface. The best method for using it on the Mac is to [install Wine via Homebrew](https://www.davidbaumgold.com/tutorials/wine-mac/), using the command line. This provides the most up-to-date software and does not involve additional licensing fees. Following these directions, CTE can be installed like any other Windows program. After installing Classical Text Editor within Wine, run `brew install winetricks && winetricks usp10 ole32` to install additional software that it requires.
 
 For a slightly more user-friendly installation method, [CrossOver](https://www.codeweavers.com) is a commercial package that guides you through the process (but does not improve the functionality of CTE itself). A previous version of this guide recommended [WineBottler](http://winebottler.kronenberg.org), a free alternative, but it is no longer actively developed.
 
 Classical Text Editor's built-in PDF creation mechanism will not work with Wine. It was possible in the past to produce PDFs using [PDFwriter](http://pdfwriterformac.sourceforge.net), but as of 2017 this program has become outdated and is no longer functional.
-
-
