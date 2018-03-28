@@ -47,6 +47,8 @@ Wine programs need to be installed using the Terminal. The best method for using
 
 5. To open CTE, [download my shortcut script](/files/cte-shortcut.zip) and place it in the Applications folder: it will work on any Mac using the default settings. You can also create your own version of this script using the [instructions from the official Wine website](https://wiki.winehq.org/MacOS_FAQ#How_to_create_shortcut.2C_launcher.2C_or_.app_to_start_a_given_.exe.3F).
 
+Classical Text Editor's built-in PDF creation mechanism will not work with Wine. It is possible to produce basic PDFs by installing [VipRiser](https://onflapp.wordpress.com/vipriser/), a virtual PDF printer ([detailed instructions](http://macvalley.blogspot.ca/2017/01/installiing-vipriser-pdf-printer-that.html)), but there are often issues with missing characters if you are using OpenType fonts.
+
 Note that Classical Text Editor will not work in a 64-bit Wine environment (the help system will not work, you will receive various error messages when running the installer, it cannot connect to the Internet, and so forth). If you find yourself in this situation, run `rm -rf ~/.wine` (deleting your Wine files) and start again with step 3.
 
 If you later wish to uninstall everything, run:
@@ -56,5 +58,3 @@ rm -rf ~/.wine && brew uninstall wine winetricks && brew uninstall $(join <(brew
 ```
 
 For a slightly more user-friendly installation method, [CrossOver](https://www.codeweavers.com) is a commercial package that guides you through the process (but does not improve the functionality of CTE itself). A previous version of this guide recommended [WineBottler](http://winebottler.kronenberg.org), a free alternative, but it is no longer actively developed.
-
-Classical Text Editor's built-in PDF creation mechanism will not work with Wine. It is possible to produce basic PDFs by installing [VipRiser](https://onflapp.wordpress.com/vipriser/), a virtual PDF printer ([detailed instructions](http://macvalley.blogspot.ca/2017/01/installiing-vipriser-pdf-printer-that.html)), but there are often issues with missing characters if you are using OpenType fonts.
