@@ -40,7 +40,7 @@ Wine programs need to be installed using the Terminal. The best method for using
 3. To ensure CTE is installed with the software it needs, run this in the Terminal:
 
     ```shell
-    WINEARCH=win32 winecfg && winetricks usp10 fontsmooth=rgb
+    WINEARCH=win32 winetricks usp10 fontsmooth=rgb
     ```
 
 4. To install CTE itself, download [Classical Text Editor](http://cte.oeaw.ac.at). To run the installer, type `wine` in the Terminal followed by a space, drag the installer file into the Terminal window, press Return, and follow the steps.
