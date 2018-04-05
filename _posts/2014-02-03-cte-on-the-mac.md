@@ -54,7 +54,7 @@ Note that Classical Text Editor will not work in a 64-bit Wine environment (the 
 If you later wish to uninstall everything, run:
 
 ```shell
-rm -rf ~/.wine && brew uninstall wine winetricks && brew uninstall $(join <(brew leaves) <(brew deps wine)) && brew cask uninstall xquartz
+rm -rf ~/.wine && brew uninstall wine winetricks
 ```
 
 For a slightly more user-friendly installation method, [CrossOver](https://www.codeweavers.com) is a commercial package that guides you through the process (but does not improve the functionality of CTE itself). A previous version of this guide recommended [WineBottler](http://winebottler.kronenberg.org), a free alternative, but it is no longer actively developed.
