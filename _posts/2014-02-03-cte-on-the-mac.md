@@ -27,14 +27,14 @@ Classical Text Editor is a Windows-only program, but there are two approaches to
 
 ![Classical Text Editor running under Wine](/images/cte-mac-main-window.png)
 
-Wine programs need to be installed using the Terminal. The best method for using it on the Mac is to install Wine via Homebrew. (Linux users can use a similar technique by installing Wine and starting with step 3.) This provides the most up-to-date software and does not involve additional licensing fees:
+Wine programs need to be installed using the Terminal. The best method for using it on the Mac is to install Wine via the [Homebrew](https://brew.sh) package manager. (Linux users can use a similar technique by installing Wine and starting with step 3.) This provides the most up-to-date software and does not involve additional licensing fees:
 
 1. Install [Homebrew](https://brew.sh).
 
 2. Install Wine using Homebrew by running the following in the Terminal:
 
     ```shell
-    brew tap caskroom/cask && brew cask install xquartz && brew install wine winetricks
+    brew install wine winetricks
     ```
 
 3. To ensure CTE is installed with the software it needs, run this in the Terminal:
