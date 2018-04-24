@@ -52,11 +52,14 @@ To install Atom and the XML validation package on Windows:
 
 1. Download [Atom](https://atom.io) and run the installer. For more detailed instructions, see [Installing Atom](https://flight-manual.atom.io/getting-started/sections/installing-atom/).
 2. Download [Java](https://java.com/download/) and run the installer. If you see any offers to install extra, unrelated software, be sure to decline these.
-3. To install XML validation support:
-     a) Open Atom.
-     b) Type Control + Shift + P to open the Command Palette (which lets you run any Atom command, and you'll be using it frequently).
-     c) Search for 'Install Packages and Themes' and select it.
-     d) In the 'Install Packages' window, search for 'linter-autocomplete-jing' and click the Install button. If it asks to install extra dependencies, allow it to do so.
+3.  To install XML validation support:
+    1.  Open Atom.
+    2.  Type Control + Shift + P to open the Command Palette (which lets
+        you run any Atom command, and you’ll be using it frequently).
+    3.  Search for ‘Install Packages and Themes’ and select it.
+    4.  In the ‘Install Packages’ window, search for
+        ‘linter-autocomplete-jing’ and click the Install button. If it
+        asks to install extra dependencies, allow it to do so.
 
 # Get started with Atom
 
