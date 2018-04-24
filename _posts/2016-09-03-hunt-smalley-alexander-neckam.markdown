@@ -1,11 +1,13 @@
 ---
 layout: "post"
-title: "An Unpublished Letter from Beryl Smalley to R.W. Hunt on the Significance of Alexander Neckam"
-date: "2016-09-03 12:35"
+title: "Beryl Smalley to R.W. Hunt on the significance of Alexander Neckam"
+date: "2017-03-01 12:35"
 categories: notes Latin
 ---
 
-*This article has been accepted for publication in Notes and Queries, published by Oxford University Press.*
+This is a pre-copyedited, author-produced version of an article accepted for publication in *Notes and Queries* following peer review. The version of record, Andrew N.J. Dunning, ‘Beryl Smalley to R.W. Hunt on the Significance of Alexander Neckam’, *Notes and Queries* 64, no. 1 (March 2017): 176–78, is available online at <https://doi.org/10.1093/notesj/gjw239>.
+
+---
 
 The most widely consulted thesis in the Bodleian Library for most of the twentieth century was that of R.W. Hunt: ‘Alexander Neckam’, completed in 1936 for his D.Phil. at Oxford under F.M. Powicke.[^1] He was later its Keeper of Western Manuscripts, from 1945 until 1975.[^2] The list of those who have consulted the thesis, pasted in the front of the volume, stretches for many pages. Hunt had made a leap forward in the knowledge of this author’s life and works, but never published more than a few notes on Alexander before his death in 1979.[^3] The book finally appeared in 1984 as *The Schools and the Cloister,* lightly revised by Margaret Gibson.[^4] Published statements imply that Hunt never made a serious effort to publish the thesis himself. A rare letter from Beryl Smalley, who destroyed her papers shortly before her death,[^5] shows that Hunt had in fact made efforts to publish his work in 1960, as well as her own insight into Alexander’s widely misunderstood biblical commentaries.
 

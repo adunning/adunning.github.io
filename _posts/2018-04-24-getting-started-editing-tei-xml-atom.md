@@ -6,7 +6,7 @@ date: 2018-04-24 14:17
 categories: digital editing
 ---
 
-*This post was originally published on the [Digital Latin Library](https://digitallatin.org/blog/setting-atom-editing-texts-digital-latin-library) website, but is applicable to any project using the [Text Encoding Initiative](http://www.tei-c.org/).*
+This post was originally published on the [Digital Latin Library](https://digitallatin.org/blog/setting-atom-editing-texts-digital-latin-library) website, but is applicable to any project using the [Text Encoding Initiative](http://www.tei-c.org/).
 
 You will quickly hear about the [Text Encoding Initiative](http://www.tei-c.org/) (TEI) if you spend any amount of time looking into producing a digital edition. The [Digital Latin Library](https://digitallatin.org/) is about to launch, which will be the first serious publisher using TEI, with series run by the [Society for Classical Studies](https://classicalstudies.org/publications-and-research/ldlt-scs-guidelines), [Mediaeval Academy of America](http://www.medievalacademy.org/page/LDLTSubmissions/MAA-Procedures-for-Evaluation-of-Proposals--Submissions-to-the-Library.htm), and Renaissance Society of America. For the first time, scholars will be able to publish peer-reviewed editions of primary sources that are universally accessible to both researchers and the general public, including readers with print disabilities.
 
