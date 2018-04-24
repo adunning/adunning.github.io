@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "John Lakenheath’s rearrangement of the archives of Bury St Edmunds Abbey, c. 1380"
+title: "John Lakenheath’s rearrangement of the archives of Bury St Edmunds Abbey, *c.* 1380"
 date: 2018-03-12 14:00
 ---
 
