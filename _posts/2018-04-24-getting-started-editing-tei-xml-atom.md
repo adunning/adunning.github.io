@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting started with editing TEI XML"
+title: "Getting started with editing TEI XML using Atom"
 description: "Instructions for setting up Atom as an XML editor for use with the Text Encoding Initiative."
 date: 2018-04-24 14:17
 categories: digital editing
