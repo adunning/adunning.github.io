@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hugh of St Victor's *De quinque septenis* (*On the Five Sevens*) and its versification in Samuel Presbiter's *De oratione dominica* (*On the Lord's Prayer*)"
-date: 2015-05-19 18:00
+date: 2016-05-19 18:00
 categories: digital editing
 ---
 
