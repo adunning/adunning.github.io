@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/adunning
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://andrewdunning.ca
+  * I am adunning (https://keybase.io/adunning) on keybase.
+  * I have a public key ASBeRWJPcns13Motd9uBARzonSn8liHq7DITA3dMx1QNXwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205e45624f727b35dcca2d77db81011ce89d29fc9621eaec321303774cc7540d5f0a",
+      "host": "keybase.io",
+      "kid": "01205e45624f727b35dcca2d77db81011ce89d29fc9621eaec321303774cc7540d5f0a",
+      "uid": "c98bb24c31bdde5b5c6739ab49667f19",
+      "username": "adunning"
+    },
+    "merkle_root": {
+      "ctime": 1524669597,
+      "hash": "7f6869d9f448b41a873c07dee8e97c3b1df276ff70491f9354747c2f3cea711ee1dae4c593c20e96a4605d002fff5ed5381c739662ba259d568c333213506022",
+      "hash_meta": "6f0ccb060ffdca2a125ac43c0ae17f9f5d22ebd6f709a7c30d31edde3600a01d",
+      "seqno": 2440586
+    },
+    "service": {
+      "entropy": "gKS1fgZdNZwwY437Pux5beqU",
+      "hostname": "andrewdunning.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1524669605,
+  "expire_in": 504576000,
+  "prev": "e29d5964314848f4331ee3f6a6f7da56fbe516bacc2310c4bf3949f7dbb14e54",
+  "seqno": 7,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXkViT3J7NdzKLXfbgQEc6J0p/JYh6uwyEwN3TMdUDV8Kp3BheWxvYWTESpcCB8Qg4p1ZZDFISPQzHuP2pvfaVvvlFrrMIxDEvzlJ99uxTlTEINeOIm6qeZ5M6Whjo4x2IfCS3SDvhY4nneEKGTuCD5EFAgHCo3NpZ8RAi006fwsWxAQkWWjNkMJlUtPK/NtHwss6Xjoo3aSPdKX+rO4O9IQJV0jLI5sX7YBoZViEKIHTTZN9LX5X9sG7DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEJPjaVC4+UiuCorZPIQQuwGF2g60GzTROKLt2EDAgdio3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/adunning
+
+==================================================================
