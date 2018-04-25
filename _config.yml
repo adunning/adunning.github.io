@@ -1,16 +1,19 @@
-title:                     Andrew Dunning
-email:                     andrew.dunning@utoronto.ca
-author:                    Andrew Dunning
-lang:                      en-CA
-description:               "Teacher, writer, and public speaker in Toronto, Canada"
-url:                       "https://andrewdunning.ca"
-twitter_username:          anjdunning
-github_username:           adunning
-rss:                       rss
+title:            Andrew Dunning
+email:            andrew.dunning@utoronto.ca
+author:
+  name:           Andrew Dunning
+  twitter:        anjdunning
+  picture:        /images/bio-photo.jpg
+lang:             en-CA
+description:      "Teacher, writer, and public speaker in Toronto, Canada"
+url:              "https://andrewdunning.ca"
+twitter_username: anjdunning
+github_username:  adunning
+rss:              rss
 
 # Build settings
-markdown:                  kramdown
-theme:                     minima
+markdown:         kramdown
+theme:            minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -26,19 +29,25 @@ exclude:
 
 collections:
   posts:
-    permalink:             /:title
+    permalink:    /:title
 
 minima:
-  date_format:             "%-d %B %Y"
+  date_format:    "%-d %B %Y"
 
 twitter:
-  username:                anjdunning
-  creator:                 anjdunning
+  username:       anjdunning
 
 social:
-  name:                    Andrew Dunning
+  name:           Andrew Dunning
   links:
     - https://orcid.org/0000-0003-0464-5036
     - https://twitter.com/anjdunning
     - https://github.com/adunning
     - https://www.facebook.com/adunning
+
+# Default image for cards
+defaults:
+  - scope:
+      path:       ""
+    values:
+      image:      /images/bio-photo.jpg
