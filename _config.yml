@@ -3,7 +3,7 @@ email: andrew.dunning@utoronto.ca
 author: Andrew Dunning
 lang: en-CA
 description: >
-  Teacher, writer, and public speaker in Toronto, Ontario, Canada.
+  Teacher, writer, and public speaker in Toronto, Canada
 url: "https://andrewdunning.ca"
 twitter_username: anjdunning
 github_username:  adunning
@@ -30,3 +30,16 @@ collections:
 
 minima:
   date_format: "%-d %B %Y"
+
+twitter:
+  username: anjdunning
+
+google_site_verification: "URcU7m7GjFuwYD5HJoNSVYDINb64q3-xIJzYREQNSho"
+
+social:
+  name: Andrew Dunning
+  links:
+    - https://twitter.com/anjdunning
+    - https://www.facebook.com/adunning
+    - https://github.com/adunning
+    - https://orcid.org/0000-0003-0464-5036
