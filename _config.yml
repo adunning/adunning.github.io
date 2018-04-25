@@ -1,17 +1,16 @@
-title: Andrew Dunning
-email: andrew.dunning@utoronto.ca
-author: Andrew Dunning
-lang: en-CA
-description: >
-  Teacher, writer, and public speaker in Toronto, Canada
-url: "https://andrewdunning.ca"
-twitter_username: anjdunning
-github_username:  adunning
-rss: rss
+title:                     Andrew Dunning
+email:                     andrew.dunning@utoronto.ca
+author:                    Andrew Dunning
+lang:                      en-CA
+description:               "Teacher, writer, and public speaker in Toronto, Canada"
+url:                       "https://andrewdunning.ca"
+twitter_username:          anjdunning
+github_username:           adunning
+rss:                       rss
 
 # Build settings
-markdown: kramdown
-theme: minima
+markdown:                  kramdown
+theme:                     minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -27,18 +26,18 @@ exclude:
 
 collections:
   posts:
-    permalink: /:title
+    permalink:             /:title
 
 minima:
-  date_format: "%-d %B %Y"
+  date_format:             "%-d %B %Y"
 
 twitter:
-  username: anjdunning
+  username:                anjdunning
 
-google_site_verification: "URcU7m7GjFuwYD5HJoNSVYDINb64q3-xIJzYREQNSho"
+google_site_verification:  "URcU7m7GjFuwYD5HJoNSVYDINb64q3-xIJzYREQNSho"
 
 social:
-  name: Andrew Dunning
+  name:                    Andrew Dunning
   links:
     - https://twitter.com/anjdunning
     - https://www.facebook.com/adunning
