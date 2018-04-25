@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Approaches to producing a critical edition: Classical Text Editor, LaTeX, and TEI"
-description: "Overview of different approaches to producing a critical edition, with directions for installing Classical Text Editor on macOS."
-date: 2014-02-03 14:06
+description: "Overview of software for producing a critical edition, with directions for installing Classical Text Editor on macOS."
+date: 2018-04-23 14:06
 categories: digital editing
 ---
 
 Creating a critical edition is a complex process, and the software supporting it is not for the faint of heart. There are several different approaches, not mutually compatible, and you need to think carefully about the final product and its audience before deciding on a working method.
 
-(*Updated 24 April 2018.*)
+(*Originally published 3 February 2014; updated.*)
 
 If you are interested in producing a digital or print–digital hybrid edition, a peer-reviewed environment for publishing your work finally emerged in early 2018, if your source is in Latin. The [Society for Classical Studies](https://classicalstudies.org/publications-and-research/ldlt-scs-guidelines), [Mediaeval Academy of America](http://www.medievalacademy.org/page/LDLTSubmissions), and Renaissance Society of America are launching the [Digital Latin Library](https://digitallatin.org). They are taking texts of any length, and both working and full critical editions, optionally with translations. The Mediaeval Academy will also consider book-length texts for co-publication with the University of Toronto Press. All this is exactly what scholars have been asking for, and has the potential to go beyond what a print edition can normally do. The underlying mechanism is the [Text Encoding Initiative](http://www.tei-c.org/) (TEI), a set of guidelines developed since the 1980s, but this seems to be the first serious publication project using it. (For shorter texts, the [Scholarly Editing](http://scholarlyediting.org) journal remains an option, taking texts in any language.) There are also scripts available for typesetting TEI using LaTeX, as demonstrated in the [TEI Critical Apparatus Toolbox](http://ciham-digital.huma-num.fr/teitoolbox/). This is still a shifting area, but there is much that looks promising. I have written a [post on setting up software to work with TEI for the Digital Latin Library](https://digitallatin.org/blog/setting-atom-editing-texts-digital-latin-library).
 
