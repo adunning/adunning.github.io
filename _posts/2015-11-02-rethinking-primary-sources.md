@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rethinking the publication of premodern sources: Petrus Plaoul on the Sentences"
+title: "Rethinking the publication of premodern sources: Petrus Plaoul on the *Sentences*"
 date: 2015-11-02
 categories: digital editing
 ---
