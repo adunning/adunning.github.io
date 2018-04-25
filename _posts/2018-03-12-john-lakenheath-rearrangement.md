@@ -4,9 +4,9 @@ title: "John Lakenheath’s rearrangement of the archives of Bury St Edmunds Abb
 date: 2018-03-12 14:00
 ---
 
-This is a pre-copyedited, author-produced version of an article accepted for publication in *The Library* following peer review. The version of record, Andrew N.J. Dunning, ‘John Lakenheath’s Rearrangement of the Archives of Bury St Edmunds Abbey, *c.* 1380’, *The Library,* 7th ser., 19, no. 1 (March 2018): 63–68, is available online at <https://doi.org/10.1093/library/19.1.63>.
-
 John Lakenheath (d. 1381) was a monk and administrator of the estates of Bury St Edmunds Abbey. He reorganized its archives in 1378–81, still in disorder after it was sacked by the townspeople in 1327, following the pattern of Henry Kirkestede’s work on its library. This culminated in the 'Lakenheath Registry' (London, British Library, MS Harley 743), an indexed directory of the Bury charters created in 1379–81. His preface to this book explaining the register's mode of operation is a rare glimpse into the mind of a medieval archivist, and is here printed for the first time and translated.
+
+This is a pre-copyedited, author-produced version of an article accepted for publication in *The Library* following peer review. The version of record, Andrew N.J. Dunning, ‘John Lakenheath’s Rearrangement of the Archives of Bury St Edmunds Abbey, *c.* 1380’, *The Library,* 7th ser., 19, no. 1 (March 2018): 63–68, is available online at <https://doi.org/10.1093/library/19.1.63>.
 
 ---
 
