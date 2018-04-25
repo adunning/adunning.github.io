@@ -25,3 +25,15 @@ blockquote {
 .smallcaps {
   font-variant: small-caps;
 }
+
+hr {
+  height: 1px;
+  margin: 2em 0 4em;
+  text-align: center;
+  border-width: 0;
+}
+
+hr::after {
+    content: "·✦·";
+  letter-spacing: 2em;
+}
