@@ -16,17 +16,19 @@ categories: digital editing
 
 ![Classical Text Editor running under Wine](/images/cte-mac-main-window.png)
 
-Wine programs need to be installed using the Terminal, simplified on the Mac using the [Homebrew](https://brew.sh) package manager. (Linux users can use a similar technique by installing Wine and starting with step 3.) This provides the most up-to-date software and does not involve additional licensing fees:
+Wine programs need to be installed using the Terminal, simplified on the Mac using the [Homebrew](https://brew.sh) package manager. (Linux users can use a similar technique by installing Wine and starting with step 3.) This provides the most up-to-date software and does not involve additional licensing fees. You won't need the Terminal after installing CTE.
 
-1. Install [Homebrew](https://brew.sh).
+The Terminal allow you to run Unix commands directly on your Mac. Follow these steps by opening the Terminal program in your Utilities folder, pasting the full line into the window, and pressing return to run the command:
 
-2. Install Wine using Homebrew by running the following in the Terminal:
+1. Install [Homebrew](https://brew.sh) using the directions on the official website.
+
+2. Install Wine using Homebrew by pasting this line into a Terminal window:
 
     ```shell
     brew install wine winetricks
     ```
 
-3. To ensure CTE is installed with the software it needs, run this in the Terminal:
+3. Configure the Wine environment for CTE and install Uniscribe:
 
     ```shell
     WINEARCH=win32 winetricks usp10 fontsmooth=rgb
@@ -38,7 +40,7 @@ Wine programs need to be installed using the Terminal, simplified on the Mac usi
 
 To update the program in the future, follow the same technique as in step 4, but drag the update installer into the Terminal window rather than the original program installer.
 
-To update to a newer version of Wine, paste this into a Terminal window:
+To update to a newer version of Wine:
 
 ```shell
 brew update && brew upgrade
