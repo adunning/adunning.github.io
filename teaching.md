@@ -4,7 +4,13 @@ title: Teaching
 permalink: /teaching/
 ---
 
-For all courses I have taught, the files are available under a [Creative Commons Attribution licence](https://creativecommons.org/licenses/by/4.0/).
+The files for all courses I have taught are provided under a [Creative Commons Attribution licence](https://creativecommons.org/licenses/by/4.0/).
+
+## [Scribes, Readers, and Latin Texts](https://andrewdunning.ca/scribes-readers-texts/)
+
+### University of Toronto: Winter 2019
+
+How do texts make their way from premodern authors to today’s readers? This seminar is an introduction to the methods that allow us to understand this process: palaeography, textual criticism, and codicology. You will learn to read and identify the most important forms of handwriting and abbreviations used in Latin manuscripts between the fourth and fifteenth centuries. You will also understand how the process of copying by hand changed texts as we read them today, and the fundamentals of how modern scholars create a critical edition. These skills are essential for anyone wishing to conduct original research on classical and medieval primary sources. We will consider both traditional approaches to these subjects as well as evolving digital techniques.
 
 ## [The Future of the Book](http://andrewdunning.ca/future-of-the-book/)
 
