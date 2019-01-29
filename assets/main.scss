@@ -34,6 +34,18 @@ hr {
 }
 
 hr::after {
-    content: "·✦·";
+  content: "·✦·";
   letter-spacing: 2em;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  padding: 0 0 0.5em 1em;
+}
+
+figcaption {
+  font-style: italic;
 }
