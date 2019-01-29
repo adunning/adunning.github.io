@@ -334,11 +334,11 @@ The [`<unclear>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-unclea
   
 ```xml
 conuo<lb break="no"/>catis secum
-<add place="above">
-  <del rend="erasure">
+<del rend="erasure">
+  <add place="above">
     <unclear>predictis episcopis</unclear>
-  </del>
-</add>
+  </add>
+</del>
 domino Ricardo Wintoni<lb break="no"/>ensi
 ```
 
@@ -346,11 +346,11 @@ I realized when editing this text that sorting out these erasures was crucial to
 
 ```xml
 conuo<lb break="no"/>catis secum
-<add place="above">
-  <del rend="erasure">
+<del rend="erasure">
+  <add place="above">
     <gap reason="illegible" n="12" unit="character"/>
-  </del>
-</add>
+  </add>
+</del>
 domino Ricardo Wintoni<lb break="no"/>ensi
 ```
 
