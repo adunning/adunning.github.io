@@ -76,7 +76,7 @@ For a prose paragraph, use the [`<p>`](http://www.tei-c.org/release/doc/tei-p5-d
 </p>
 ```
 
-The equivalent for verse lines is [`<lg>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-lg.html) (line group), with individual verses marked [`<l>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-l.html):
+The equivalent for poetry is [`<lg>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-lg.html) (line group), with individual verse lines marked [`<l>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-l.html):
 
 ```xml
 <lg>
