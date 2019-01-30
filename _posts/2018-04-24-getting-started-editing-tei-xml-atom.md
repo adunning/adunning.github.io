@@ -23,7 +23,7 @@ The best introductory text editor for TEI is [Atom](https://atom.io), a highly c
 
 Many people in the TEI community use the [Oxygen XML Editor](https://www.oxygenxml.com). It's devoted specifically to XML, but it has far more features than you need if you're simply creating a transcription or edition.
 
-To use Atom together with its packages for XML, you'll both Atom itself and Java. You can install this using the Terminal on the Mac, or using a Web browser on either a Mac or Windows.
+To use Atom together with its packages for XML, you'll need both Atom itself and Java. You can install these using the Terminal on the Mac, or using a Web browser on any system.
 
 ## Installing Atom with the Terminal (Mac)
 
@@ -53,7 +53,7 @@ This will install Atom and its packages for XML using Homebrew:
 
 You will find Atom in your Applications folder.
 
-## Installing Atom with a Web browser (Mac/Windows)
+## Installing Atom with a Web browser (Mac/Windows/Linux)
 
 To install Atom together with its packages for writing XML using a Web browser:
 
