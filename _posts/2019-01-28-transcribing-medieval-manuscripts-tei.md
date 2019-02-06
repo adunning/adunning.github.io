@@ -4,6 +4,8 @@ title: "Transcribing medieval manuscripts with TEI"
 date: "2019-01-28 17:50"
 ---
 
+It's surprisingly difficult to make a transcription of a manuscript that is both readable and makes it easy to track what is on the page. This is an interpretative process that relies as much on the editor's knowledge of Latin as of scribal conventions.
+
 The [Text Encoding Initiative](http://www.tei-c.org) (TEI) solves one of the problems from which humanists have long suffered in providing a standardized and technology-independent way to transcribe original documents. There are as many different conventions for rendering phenomena such as additions or substitutions as there are sub-disciplines. This hinders collaboration and impedes the availability of our work. Instead, we can take TEI files and display them however we want, or include them in text corpora.
 
 * TOC
@@ -14,6 +16,8 @@ This reference page shows how to transcribe common features of medieval manuscri
 If you need software for working with TEI, see my page on [getting started with TEI and Atom](../getting-started-editing-tei-xml-atom). [*Digital Editing of Medieval Texts: A Textbook*](https://www.digitalmanuscripts.eu/digital-editing-of-medieval-texts-a-textbook/) introduces TEI for all aspects of editing manuscripts. For a general introduction to TEI, see [*What is the Text Encoding Initiative?*](https://books.openedition.org/oep/426)
 
 Most of these illustrations are from my edition of the *Miracles of St Frideswide* ([Oxford, Bodleian Library, MS Digby 177](https://www.flickr.com/photos/adunning/albums/72157699745242551)) for the [Digital Latin Library](https://digitallatin.org).
+
+I follow the simple rule of taking account of every mark on the page, including the original punctuation, and adding TEI tags to show my interpretation -- for example, using a tag to mark a phrase as a quotation instead of adding quotation marks. This principle makes it far easier to verify work and adjust it to the needs of different readers.
 
 ## Finding the right character
 
@@ -186,6 +190,9 @@ bottom
 
 inline
 : added within the line (probably squeezed between two characters or even adding a stroke to an existing character; compare overstrike)
+
+inRas
+: added inline within an erasure
 
 interlinear
 : written in an unspecified location between the lines, either above or below
@@ -383,6 +390,34 @@ To record an editorial decision that replaces text in the manuscript, combine th
 ```xml
 diuer<choice><sic>m</sic><corr source="#B">t</corr></choice>entes
 ```
+
+## Quotations
+
+One of the best functions of TEI is its ability to distinguish between [different types of quotations](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html#COHQQ). This allows you to produce a reader's edition showing quotation marks without adding more punctuation into the text that could be confused with characters written in the source manuscript.
+
+You can use [`<q>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-q.html) as a generic method of adding interpretative quotation marks, but since it's an expectation for a finished edition to mark quotations from another source (in an *apparatus fontium* or source apparatus) as well as dialogue or terms, it's useful to use several tags for this purpose. You'll likely only use the first two in most medieval Latin texts:
+
+[`<quote>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-quote.html)
+: for direct quotations of a text; use [`<seg>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-seg.html) to mark allusions where you do not want quotation marks to appear in the final version
+
+[`<said>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-said.html)
+: for dialogue
+
+[`<mentioned>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-mentioned.html)
+: for terms or phrases (usually only found in more technical texts)
+
+[`<soCalled>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-soCalled.html)
+: words that might appear in scare quotes or italics but are not attributed to a particular source (compare [`<foreign>`](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/ref-foreign.html))
+
+For example:
+
+```xml
+<said>Ne timeas</said> inquit <said>filia.
+<quote>iacta cogitatum tuum in domino et ipse
+te enutriet.</quote>
+```
+
+By marking your text in this way, it is absolutely clear what punctuation is present in the manuscript, and once you're ready to create your source apparatus, you can simply search for every instance of `<quote>`. In simple situations, it is notionally possible to write the source information directly into your file using an attribute, such as `<quote source="Ps54.23">`, but there is not yet standard notation for this that produces a functional result.
 
 ## Names
 
