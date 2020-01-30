@@ -7,12 +7,13 @@ permalink: /research/
 I am studying medieval innovations in community development and communication in the decades surrounding the creation of the first universities, in the 12th and 13th centuries. I also make key historical sources accessible to everyone through digital resources, editions, and translations. [See ORCID for a list of my published research.](http://orcid.org/0000-0003-0464-5036)
 
 
-## Now available
+## Published
 
-- [Samuel Presbiter: Notes from the School of William de Montibus](http://www.pims.ca/publications/new-and-recent-titles/publication/notes-from-the-school-of-william-de-montibus-collecta-ex-diuersis-auditis-in-scola-magistri-willelmi-de-monte)
+- [*Samuel Presbiter: Notes from the school of William de Montibus/Collecta ex diuersis auditis in scola Willelmi de Monte,*](https://pims.ca/publication/isbn-978-0-88844-483-7/) Toronto Medieval Latin Texts, 33 (Toronto: [PIMS]{.smallcaps}, 2016), [[ISBN 978-0-88844-483-7](http://www.worldcat.org/isbn/9780888444837)]{.smallcaps}
+    - reviews: Kimberly Rivers, *Speculum* 94 (2018): 283--84, <https://doi.org/c7bf>; Anthony J. Fredette, *Journal of Medieval Latin* 29 (2019): 364--67 <http://doi.org/dfkn>
 
-## Coming soon
+## Forthcoming
+
+- [*Two Priors and a Princess: St Frideswide in Twelfth-Century Oxford,*](https://www.openbookpublishers.com/product/1077) with contributions by Benedicta Ward (Cambridge: Open Book Publishers, 2020), ISBN 978-1-78374-785-6
 
 - *Writing Community: The Augustinian Canons at Cirencester Abbey, c.1120--c.1250*
-- *Prior Philip: The Miracles of St Frideswide* (edition and translation with [Benedicta Ward](http://www.hmc.ox.ac.uk/people/dr-benedicta-ward/))
-- [*Alexander of Hales' Gloss on Lombard's Sentences*, volume 4](http://dallasmedievaltexts.org/alexander-hales-project/)
