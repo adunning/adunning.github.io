@@ -25,7 +25,7 @@ The Terminal allow you to run Unix commands directly on your Mac. Follow these s
 2. Install Wine using Homebrew by pasting this line into a Terminal window:
 
     ```shell
-    brew install wine winetricks
+    brew cask install wine-stable && brew install winetricks
     ```
 
 3. Configure the Wine environment for CTE and install Uniscribe:
